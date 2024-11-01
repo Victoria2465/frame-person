@@ -68,7 +68,7 @@ header #logo {
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item.    */
 	/* flex-basis – Tamanho inicial do item.           */
-	flex: 0 1 200px;
+	flex: 0 1 80%;
 
 	/* Cor do fundo. */
 	background: #BCA9F5;
