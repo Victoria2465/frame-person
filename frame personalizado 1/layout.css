@@ -34,7 +34,7 @@ body {
 /* Formatação comum entre os elementos. */
 header, nav, main, aside, footer {
 	/* Cor do fundo. */
-	background: #a1a1a1;
+	background: #6A5ACD;
 
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
@@ -71,7 +71,7 @@ header #logo {
 	flex: 0 1 200px;
 
 	/* Cor do fundo. */
-	background: #c9c9c9;
+	background: #6A5ACD;
 
 	/* Alinha os itens na vertical. */
 	justify-content: center;
