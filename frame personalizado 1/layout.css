@@ -55,7 +55,7 @@ header, nav, main, aside, footer {
 
 header {
 	/* Altura do elemento. */
-	height: 100px;
+	height: 180%;
 }
 
 header #logo {
